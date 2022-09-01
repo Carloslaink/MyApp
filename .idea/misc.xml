@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable-v24/background_4.xml" value="0.304" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable-v24/background_5.xml" value="0.304" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/background_1.xml" value="0.303" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/background_2.xml" value="0.303" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/background_3.xml" value="0.303" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/button_rounded.xml" value="0.313" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/gradielist.xml" value="0.304" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/ic_launcher_background.xml" value="0.304" />
         <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>
