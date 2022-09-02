@@ -8,10 +8,17 @@
         <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/background_1.xml" value="0.303" />
         <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/background_2.xml" value="0.303" />
         <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/background_3.xml" value="0.303" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/btn_apps_effect.xml" value="0.2625" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/btn_view_efecct.xml" value="0.303" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/button_effect.xml" value="0.2625" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/button_press.xml" value="0.2625" />
         <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/button_rounded.xml" value="0.313" />
         <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/gradielist.xml" value="0.304" />
         <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/ic_launcher_background.xml" value="0.304" />
-        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/img_press_instagram.xml" value="0.2635" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/img_press_twitter.xml" value="0.2635" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/drawable/imgbtn_press.xml" value="0.2625" />
+        <entry key="..\:/THINGS OF D/MyAppABoscan/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
