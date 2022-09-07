@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listopciones">
+        <item>Admin</item>
+        <item>User</item>
+        <item>Study</item>
+        <item>Basic</item>
+    </string-array>
+
+</resources>

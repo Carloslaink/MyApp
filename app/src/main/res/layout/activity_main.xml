@@ -71,15 +71,17 @@
             android:layout_height="59dp"
             android:layout_marginTop="44dp"
             android:background="@drawable/button_press"
-            android:text="@string/new_acount" />
+            android:onClick="intlogin"
+            android:text="@string/log_in" />
 
         <Button
             android:id="@+id/button2"
             android:layout_width="match_parent"
             android:layout_height="59dp"
             android:layout_marginTop="8dp"
-            android:background="@drawable/button_press"
-            android:text="@string/log_in" />
+            android:onClick="actForm"
+            android:text="@string/new_acount"
+            android:background="@drawable/button_press"/>
 
         <CheckBox
             android:id="@+id/checkBox"

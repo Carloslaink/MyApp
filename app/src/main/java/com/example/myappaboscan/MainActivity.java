@@ -1,4 +1,5 @@
 package com.example.myappaboscan;
+import android.content.Intent;
 import android.graphics.drawable.AnimationDrawable;
 import android.support.constraint.ConstraintLayout;
 import android.support.v7.app.AppCompatActivity;
@@ -20,7 +21,18 @@ public class MainActivity extends AppCompatActivity {
         AnimationDrawable.start();
 
 
+
     }
 
 
+    public void intlogin(View view) {
+        Intent intent = new Intent(this,MainActivity2.class);
+        startActivity(intent);
+
+    }
+
+    public void actForm(View view) {
+        Intent intent = new Intent(this,FormActivity.class);
+        startActivity(intent);
+    }
 }
