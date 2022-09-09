@@ -50,11 +50,11 @@
 
         <android.support.constraint.ConstraintLayout
             android:id="@+id/constraintLayout"
-            android:layout_width="368dp"
-            android:layout_height="377dp"
-            android:layout_marginStart="12dp"
+            android:layout_width="359dp"
+            android:layout_height="358dp"
+            android:layout_marginStart="16dp"
             android:layout_marginTop="12dp"
-            android:layout_marginEnd="29dp"
+            android:layout_marginEnd="34dp"
             android:layout_marginBottom="175dp"
             android:background="#FFFFFF"
             android:backgroundTint="#FFFFFF"
@@ -63,7 +63,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView"
-            app:layout_constraintVertical_bias="0.0">
+            app:layout_constraintVertical_bias="0.45">
 
             <EditText
                 android:id="@+id/editTextTextPersonName12"
@@ -172,7 +172,7 @@
                 android:id="@+id/textView2"
                 android:layout_width="135dp"
                 android:layout_height="43dp"
-                android:layout_marginStart="15dp"
+                android:layout_marginStart="24dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginBottom="41dp"
                 android:background="@drawable/buttom"
@@ -216,6 +216,7 @@
                 android:id="@+id/button7"
                 android:layout_width="180dp"
                 android:layout_height="60dp"
+                android:layout_marginLeft="6dp"
                 android:background="@drawable/button_press"
                 android:hint="Complete"
                 android:onClick="completeActivity" />
