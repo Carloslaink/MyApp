@@ -33,7 +33,7 @@ public class MainActivity2 extends AppCompatActivity {
         lista.add(new modelosList("Cristian Jose","Peru",R.drawable.img2));
         lista.add(new modelosList("Reina Caseres","Argentina",R.drawable.img3));
         lista.add(new modelosList("Rodrigo Montiel","Colombia",R.drawable.img4));
-        lista.add(new modelosList("Jhon Sal chichon","Mexico",R.drawable.img5));
+        lista.add(new modelosList("Jhon  chichon","Mexico",R.drawable.img5));
         lista.add(new modelosList("Santo Tomas","Chile",R.drawable.img6));
         return  lista;
     }
